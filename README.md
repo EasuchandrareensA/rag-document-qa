@@ -32,4 +32,8 @@ Sample questions for the files in docs/:
 
 - Searches only .txt files in docs/, one sentence per chunk.
 - Always returns the top 2 results, even weak matches. A minimum score threshold is planned.
+<<<<<<< HEAD
 - Gemini model names change often. Update the model= line in answer.py if you see a 404 error.
+=======
+- Gemini model names change often. Update the model= line in answer.py if you see a 404 error.
+>>>>>>> 8e8aae3 (Add three-stage RAG pipeline)
